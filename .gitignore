@@ -1,0 +1,53 @@
+# Archivos de build
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebugFinal/
+[Dd]istFinal/
+
+
+Migrations
+# Archivos de compilación intermedios
+[Aa]bout/
+[Aa]ssets/
+
+appsettings.json
+
+credentials.json
+
+# Archivos de configuración
+appsettings*.json
+appsettings.Development.json
+credentials.json
+# Archivos generados por el IDE
+.vs/
+.idea/
+.vscode/
+
+# Archivos binarios generados
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+.vs2019/
+.vs2017/
+.vs2015/
+
+# Archivos de configuración de NuGet
+.nuget/
+packages/
+
+# Archivos de configuración local
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de publicación
+publish/
+
+# Archivos temporales de ASP.NET
+# Archivos de ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/

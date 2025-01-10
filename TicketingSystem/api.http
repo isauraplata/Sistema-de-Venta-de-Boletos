@@ -1,0 +1,10 @@
+# Define la variable para la dirección base de la API
+@api_HostAddress = http://localhost:5231
+
+### Solicitud GET al endpoint WeatherForecast
+GET {{api_HostAddress}}/weatherforecast
+Accept: application/json
+
+### Solicitud GET al controlador TextController
+GET {{api_HostAddress}}/text
+Accept: text/plain
