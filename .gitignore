@@ -5,6 +5,7 @@
 [Dd]ebugFinal/
 [Dd]istFinal/
 
+.env
 
 Migrations
 # Archivos de compilación intermedios
