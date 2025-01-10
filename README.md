@@ -42,7 +42,7 @@ Para utilizar los servicios externos, es necesario configurar las claves de API:
 
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/sistema-boletos-eventos.git
+git clone https://github.com/isauraplata/Sistema-de-Venta-de-Boletos-.git
 ```
 
 ### Configurar la base de datos
